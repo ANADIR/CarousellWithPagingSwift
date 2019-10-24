@@ -14,7 +14,6 @@ class carousellCollectionViewCell: UICollectionViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        
         setUpCard()
     }
     
